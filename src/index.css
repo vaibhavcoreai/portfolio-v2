@@ -11,6 +11,10 @@
   --color-obsidian: #000000;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   background-color: var(--color-obsidian);
   color: var(--color-cream);

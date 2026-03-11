@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# portfolio-v2
 
-# Run and deploy your AI Studio app
+Personal portfolio — minimal, animated, and built to move.
 
-This contains everything you need to run your app locally.
+> *"Not arrived. Just moving."*
 
-View your app in AI Studio: https://ai.studio/apps/8cfd0785-ecf1-4c3e-b410-243e5b9649ca
+---
 
-## Run Locally
+## Stack
 
-**Prerequisites:**  Node.js
+- **React** + **TypeScript**
+- **Framer Motion / Motion** — scroll-driven canvas image sequence & micro-animations
+- **Tailwind CSS v4**
+- **Vite**
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Features
+
+- Scroll-driven frame animation (canvas image sequence)
+- Smooth text transitions synced to scroll position
+- Custom cursor with spring physics
+- Responsive mobile menu with staggered animations
+- Noise grain texture overlay
+- Minimal, editorial design language
+
+---
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Notes
+
+Built with **vibe coding** — designed and shipped through instinct, iteration, and aesthetic intent. No templates, no shortcuts.
+
+---
+
+## Author
+
+**Vaibhav Manaji**  
+[vaibhavcoreai@gmail.com](mailto:vaibhavcoreai@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vaibhav-manaji-40a9ab290/) · [GitHub](https://github.com/vaibhavcoreai)
